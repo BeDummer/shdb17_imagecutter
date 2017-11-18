@@ -1,5 +1,5 @@
 # resize and crop image
-size=256
+size=512
 infile=$1
 outfile=${infile%.*}_$size.png
 
